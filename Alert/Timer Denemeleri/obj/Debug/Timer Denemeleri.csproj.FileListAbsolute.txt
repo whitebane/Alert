@@ -1,0 +1,25 @@
+C:\Users\Alikaan\source\repos\Timer Denemeleri\Timer Denemeleri\bin\Debug\Timer Denemeleri.exe.config
+C:\Users\Alikaan\source\repos\Timer Denemeleri\Timer Denemeleri\bin\Debug\Timer Denemeleri.exe
+C:\Users\Alikaan\source\repos\Timer Denemeleri\Timer Denemeleri\bin\Debug\Timer Denemeleri.pdb
+C:\Users\Alikaan\source\repos\Timer Denemeleri\Timer Denemeleri\obj\Debug\Timer_Denemeleri.Form1.resources
+C:\Users\Alikaan\source\repos\Timer Denemeleri\Timer Denemeleri\obj\Debug\Timer_Denemeleri.Properties.Resources.resources
+C:\Users\Alikaan\source\repos\Timer Denemeleri\Timer Denemeleri\obj\Debug\Timer Denemeleri.csproj.GenerateResource.cache
+C:\Users\Alikaan\source\repos\Timer Denemeleri\Timer Denemeleri\obj\Debug\Timer Denemeleri.csproj.CoreCompileInputs.cache
+C:\Users\Alikaan\source\repos\Timer Denemeleri\Timer Denemeleri\obj\Debug\Timer Denemeleri.exe
+C:\Users\Alikaan\source\repos\Timer Denemeleri\Timer Denemeleri\obj\Debug\Timer Denemeleri.pdb
+C:\Users\Alikaan\source\repos\Timer Denemeleri\Timer Denemeleri\obj\Debug\Timer Denemeleri.csproj.AssemblyReference.cache
+C:\Users\Alikaan\source\repos\Alert\Timer Denemeleri\bin\Debug\Timer Denemeleri.exe.config
+C:\Users\Alikaan\source\repos\Alert\Timer Denemeleri\bin\Debug\Timer Denemeleri.exe
+C:\Users\Alikaan\source\repos\Alert\Timer Denemeleri\bin\Debug\Timer Denemeleri.pdb
+C:\Users\Alikaan\source\repos\Alert\Timer Denemeleri\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alikaan\source\repos\Alert\Timer Denemeleri\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alikaan\source\repos\Alert\Timer Denemeleri\obj\Debug\Timer Denemeleri.csproj.AssemblyReference.cache
+C:\Users\Alikaan\source\repos\Alert\Timer Denemeleri\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alikaan\source\repos\Alert\Timer Denemeleri\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alikaan\source\repos\Alert\Timer Denemeleri\obj\Debug\Timer Denemeleri.csproj.ResolveComReference.cache
+C:\Users\Alikaan\source\repos\Alert\Timer Denemeleri\obj\Debug\Timer_Denemeleri.Form1.resources
+C:\Users\Alikaan\source\repos\Alert\Timer Denemeleri\obj\Debug\Timer_Denemeleri.Properties.Resources.resources
+C:\Users\Alikaan\source\repos\Alert\Timer Denemeleri\obj\Debug\Timer Denemeleri.csproj.GenerateResource.cache
+C:\Users\Alikaan\source\repos\Alert\Timer Denemeleri\obj\Debug\Timer Denemeleri.csproj.CoreCompileInputs.cache
+C:\Users\Alikaan\source\repos\Alert\Timer Denemeleri\obj\Debug\Timer Denemeleri.exe
+C:\Users\Alikaan\source\repos\Alert\Timer Denemeleri\obj\Debug\Timer Denemeleri.pdb
